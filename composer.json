@@ -1,6 +1,6 @@
 {
-  "name": "maatwebsite/excel",
-  "description": "Supercharged Excel exports and imports in Laravel",
+  "name": "huantime/excel",
+  "description": "forked from Maatwebsite/Laravel-Excel",
   "license": "MIT",
   "keywords": [
     "laravel",
